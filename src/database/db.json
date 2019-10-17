@@ -1,0 +1,16 @@
+{
+  "greeting": [
+    { "lang": "English", "greeting": "Hello World" },
+    { "lang": "Español", "greeting": "Hola Mundo" },
+    { "lang": "Afrikáans", "greeting": "Groete Wêreld" },
+    { "lang": "Uzbek", "greeting": "Salom Dunyo" },
+    { "lang": "Japanese", "greeting": "Kon'nichiwa sekai" },
+    { "lang": "Serbian", "greeting": "Zdravo Svete" },
+    { "lang": "Hindi", "greeting": "Namaste Duniya" },
+    { "lang": "Nepali", "greeting": "Namaskāra sansāra" },
+    { "lang": "German", "greeting": "Hallo Welt" },
+    { "lang": "Nyanja", "greeting": "Moni Mdziko" },
+    { "lang": "Canares", "greeting": "Śubhāśaya jagattu" },
+    { "lang": "Zulu", "greeting": "imikhonzo emhlabeni" }
+  ]
+}

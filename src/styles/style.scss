@@ -1,0 +1,35 @@
+/* Color Theme Swatches in Hex */
+$dark-theme: rgb(23, 23, 23);
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300|Raleway:300&display=swap");
+
+body {
+  background-color: $dark-theme;
+  margin: 0;
+  font-family: Raleway;
+}
+
+h1,
+h2,
+p,
+span,
+h4,
+h3 {
+  font-family: Montserrat;
+  font-size: 1.4em;
+}
+h4 {
+  font-size: 1em;
+  text-align: center;
+}
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.3em;
+}
+h3 {
+  font-size: 1.1em;
+}
+hr {
+  width: 100%;
+}
